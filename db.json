@@ -59,6 +59,54 @@
       "name": "Fido",
       "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    },
+    {
+      "isGoodDog": false,
+      "id": 11
+    },
+    {
+      "isGoodDog": false,
+      "id": 12
+    },
+    {
+      "isGoodDog": false,
+      "id": 13
+    },
+    {
+      "isGoodDog": false,
+      "id": 14
+    },
+    {
+      "isGoodDog": false,
+      "id": 15
+    },
+    {
+      "isGoodDog": false,
+      "id": 16
+    },
+    {
+      "isGoodDog": false,
+      "id": 17
+    },
+    {
+      "isGoodDog": false,
+      "id": 18
+    },
+    {
+      "isGoodDog": false,
+      "id": 19
+    },
+    {
+      "isGoodDog": false,
+      "id": 20
+    },
+    {
+      "isGoodDog": false,
+      "id": 21
+    },
+    {
+      "isGoodDog": false,
+      "id": 22
     }
   ]
 }
